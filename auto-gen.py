@@ -3,14 +3,14 @@ import os
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-archs = ("x86_64",)
+archs = ("x86_64","any")
 archs_text = """[../](..)
 
 """
-README_text = """# PPR: Parch Pacman repository
+README_text = """# BargOS Pacman Repository
 
 """
-base_url = "https://raw.githubusercontent.com/parchlinux/ppr/main/{arch}/{package}"
+base_url = "https://raw.githubusercontent.com/Barg-Project/repo/main/{arch}/{package}"
 
 for arch in archs:
     logging.info("Generating for arch: %s", arch)
