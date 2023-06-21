@@ -3,7 +3,7 @@ import os
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
-archs = ("x86_64","any")
+archs = ("x86_64",)
 archs_text = """[../](..)
 
 """
