@@ -17,7 +17,6 @@ jobs:
         run: bash ./repoadd.sh repo
       - name: push
         run: |
-	  cd ../
           git add -A
           git commit -S -m "gh-action: Update ppr.db" || echo "nothing"
           
