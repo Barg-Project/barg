@@ -1,0 +1,11 @@
+[../](..)
+
+- [ascii-image-converter-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ascii-image-converter-1.13.1-1-x86_64.pkg.tar.zst)
+- [behdad-fonts-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/behdad-fonts-0.0.3-1-x86_64.pkg.tar.zst)
+- [borna-fonts-20011225-4-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/borna-fonts-20011225-4-x86_64.pkg.tar.zst)
+- [gandom-fonts-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/gandom-fonts-0.8-2-x86_64.pkg.tar.zst)
+- [ganjnameh-fonts-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ganjnameh-fonts-0.0.4-1-x86_64.pkg.tar.zst)
+- [ir-standard-fonts-20170121-3-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ir-standard-fonts-20170121-3-x86_64.pkg.tar.zst)
+- [iran-nastaliq-fonts-2](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/iran-nastaliq-fonts-2.001-1-x86_64.pkg.tar.zst)
+- [iranian-fonts-20140118-2-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/iranian-fonts-20140118-2-x86_64.pkg.tar.zst)
+- [mkinitcpio-openswap-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/mkinitcpio-openswap-0.1.0-3-x86_64.pkg.tar.zst)
