@@ -17,7 +17,7 @@
 - [lsb-release-2](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/lsb-release-2.0.r55.a25a4fc-1-x86_64.pkg.tar.zst)
 - [mkinitcpio-openswap-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/mkinitcpio-openswap-0.1.0-3-x86_64.pkg.tar.zst)
 - [nahid-fonts-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/nahid-fonts-0.3.0-3-x86_64.pkg.tar.zst)
-- [neofetch-7](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/neofetch-7.1.0-2-x86_64.pkg.tar.zst)
+- [neofetch-7](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/neofetch-7.1.0.barg-2-x86_64.pkg.tar.zst)
 - [neovim-plug-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/neovim-plug-0.11.0-1-x86_64.pkg.tar.zst)
 - [nika-font-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/nika-font-1.0.0-1-x86_64.pkg.tar.zst)
 - [pipes](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/pipes.c-1.0.0-1-x86_64.pkg.tar.zst)
