@@ -34,6 +34,7 @@
 - [python-hgchat-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/python-hgchat-0.1.3-1-x86_64.pkg.tar.zst)
 - [python-openai-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/python-openai-0.27.8-1-x86_64.pkg.tar.zst)
 - [shell-color-scripts-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/shell-color-scripts-1.1.r113.576735c-1-x86_64.pkg.tar.zst)
+- [speedtest-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/speedtest-1.2.0-1-x86_64.pkg.tar.zst)
 - [ttf-win11-3d-emoji-1-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ttf-win11-3d-emoji-1-1-x86_64.pkg.tar.zst)
 - [ttf-win11-emoji-1-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ttf-win11-emoji-1-1-x86_64.pkg.tar.zst)
 - [vim-dart-plugin-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/vim-dart-plugin-0.1.0.r77.g0ba32c9-1-x86_64.pkg.tar.zst)
