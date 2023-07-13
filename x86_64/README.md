@@ -40,6 +40,7 @@
 - [tt-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/tt-0.4.2-1-x86_64.pkg.tar.zst)
 - [ttf-win11-3d-emoji-1-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ttf-win11-3d-emoji-1-1-x86_64.pkg.tar.zst)
 - [ttf-win11-emoji-1-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ttf-win11-emoji-1-1-x86_64.pkg.tar.zst)
+- [ufetch-r172](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ufetch-r172.6abf3c6.barg-1-x86_64.pkg.tar.zst)
 - [unixel-font-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/unixel-font-1.0-1-x86_64.pkg.tar.zst)
 - [vim-dart-plugin-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/vim-dart-plugin-0.1.0.r77.g0ba32c9-1-x86_64.pkg.tar.zst)
 - [vim-plug-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/vim-plug-0.11.0-1-x86_64.pkg.tar.zst)
