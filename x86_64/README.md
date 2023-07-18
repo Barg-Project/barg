@@ -2,7 +2,7 @@
 
 - [ansi-code-generator-2c84a54-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ansi-code-generator-2c84a54-1-x86_64.pkg.tar.zst)
 - [ascii-image-converter-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/ascii-image-converter-1.13.1-1-x86_64.pkg.tar.zst)
-- [autopkg-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/autopkg-1.barg-1-x86_64.pkg.tar.zst)
+- [autopkg-1](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/autopkg-1.0.1.barg-1-x86_64.pkg.tar.zst)
 - [barg-icons-20230701-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/barg-icons-20230701-1-x86_64.pkg.tar.zst)
 - [barg-mirrorlist-20230706-1-x86_64](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/barg-mirrorlist-20230706-1-x86_64.pkg.tar.zst)
 - [barg-release-0](https://raw.githubusercontent.com/Barg-Project/repo/main/x86_64/barg-release-0.1-1-x86_64.pkg.tar.zst)
